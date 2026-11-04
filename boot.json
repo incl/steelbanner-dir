@@ -1,3 +1,26 @@
 {
-  "popups": []
+  "popups": [
+    {
+      "id": "update1105",
+      "on": true,
+      "block": false,
+      "title": {
+        "ko": "11월 5일(목) 업데이트 안내",
+        "en": "Nov 5 (Thu) Update"
+      },
+      "msg": {
+        "ko": "11월 5일(목) 오전 10시 업데이트로 바뀝니다.\n\n· 첫 클리어 보석: 일반 15 → 5, 하드 10 (신규)\n  둘 다 깨시면 총량은 거의 같습니다.\n· 자동 진행·반복: 광고 1편 = 1시간\n  (프리미엄 패스는 광고 없이, 하드는 자동 진행 불가)\n\n자세한 내용은 공지를 확인해 주세요.",
+        "en": "Changes in the Nov 5 (Thu) 10:00 KST update:\n\n· First-clear gems: Normal 15 → 5, Hard 10 (new)\n  Clear both and your total stays about the same.\n· Auto Advance · Repeat: 1 ad = 1 hour\n  (Premium Pass: no ads, not available on Hard)\n\nSee the notice for details."
+      },
+      "buttons": [
+        {
+          "label": {
+            "ko": "확인",
+            "en": "OK"
+          },
+          "kind": "main"
+        }
+      ]
+    }
+  ]
 }
