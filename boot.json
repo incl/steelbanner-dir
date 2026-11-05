@@ -2,7 +2,7 @@
   "popups": [
     {
       "id": "update1105",
-      "on": true,
+      "on": false,
       "block": false,
       "title": {
         "ko": "11월 5일(목) 업데이트 안내",
