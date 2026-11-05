@@ -4,7 +4,7 @@
       "id": "update_notice_23",
       "on": true,
       "block": false,
-      "every": true,
+      "every": false,
       "below_code": 23,
       "title": {
         "ko": "새 업데이트가 있습니다",
