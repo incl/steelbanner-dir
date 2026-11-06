@@ -1,0 +1,82 @@
+{
+ "ver": "49d8258a5acdc027f08ce339bbb56a2c",
+ "notices": [
+  {
+   "id": 29,
+   "title": "Advance Notice: Card Growth Rebalance",
+   "body": "@tag info\nMy Lord, here is advance notice of an upcoming card growth rebalance.\n\nCards are currently reaching max level much faster than intended. We are adjusting growth so there is more to work toward over the long run.\n\n## What's changing\n- Card level-ups will require more EXP.\n- Star breakthroughs and skill upgrades will require more character shards.\n\n## When\n- Planned for Monday, November 9.\n- We will let you know if the schedule changes.\n\n## Cards you have already raised\n- Levels, stars and skill tiers you have already reached will stay as they are.\n- Your shards and cards will not be removed.\n\nThank you for playing, and we look forward to many more battles with you.",
+   "at": 1793935777,
+   "ends": 1795186799
+  },
+  {
+   "id": 28,
+   "title": "Resource Optimization & HD Data Download",
+   "body": "Hello, this is Steelbanner.\nTo make installation lighter, we have greatly reduced the initial app size in this update.\nTo enjoy sharper card illustrations and battle effects, an additional in-game download is required.\n\n## 1. How to Download\nTitle screen [Settings] → [Download HD Data]\n\n## 2. Notes\n- Background downloading is currently not available. Please choose \"In Game\" when selecting how to download.\n- This may use mobile data, so we recommend using Wi-Fi.\n\nWe will keep improving to bring you a smoother, more polished experience.\nThank you.",
+   "at": 1793843109,
+   "ends": 1794495599
+  },
+  {
+   "id": 26,
+   "title": "Nov 5 Update Changes (Auto Advance Ads Withdrawn · Balance Adjustments)",
+   "body": "Hello, this is Steelbanner.\nHere are some changes and details regarding the update announced today.\n\n## 1. Ads for Auto Advance / Stage Repeat Withdrawn\nWe decided that limiting convenience features behind ads is not appropriate, and have fully withdrawn this plan.\nAuto Advance and Stage Repeat remain free to use without ads, as before.\n\n## 2. Stage Balance and Reward Adjustments\n- Normal stage rewards: as previously announced, first-clear rewards change from 15 to 5.\n- Difficulty: stage difficulty has been raised overall across sections.\n- Hard mode rewards: by clearing Hard mode, you can earn rewards similar to before.\n\n## 3. New Social Features\nFriends and Guilds have been added so you can connect and cooperate with other players.\n\nWe sincerely apologize for the confusion during this update.\nWe will keep improving Steelbanner based on your feedback.\nThank you.",
+   "at": 1793842576,
+   "ends": 1794495599
+  },
+  {
+   "id": 24,
+   "title": "Nov 5 (Thu) Update",
+   "body": "@tag patch\nMy Lord, here is the news for the Nov 5 (Thu) 10:00 KST update.\nNormal stages go on endlessly, so first-clear gems could pile up without limit.\n\n## First-clear gems\n- Normal: 15 → 5 per stage\n- Hard: 10 per stage (new)\n- Clear both and your total stays about the same.\n- Gems you have already received will not be taken back.\n\n## Auto Advance · Repeat\n- Watch 1 ad to use them for 1 hour.\n- Premium Pass: no ads needed.\n- Not available on Hard stages.\n---\nWe apologize for the sudden change.",
+   "at": 1793771117,
+   "ends": 1795013999
+  },
+  {
+   "id": 23,
+   "title": "Nov 5 (Thu) Update 2 — Friends & Guilds",
+   "body": "@tag info\nMy Lord, Friends and Guilds open with the Nov 5 (Thu) update.\n\n## Friends\nOpen \"Friends\" on the left of Home.\n- Follow each other to become friends.\n- Send each friend a Friendship Point gift once a day.\n- Spend points in the Friendship Shop for gold and card shards.\n- Friendly Match: practice against a friend's main deck.\n\n## Guilds\nOpen it below Patrol on the right of Home.\n- Check in and donate to grow your guild and earn Guild Coins.\n- Request and send card shards among members.\n- Buy gold and card shards in the Guild Shop.\n- Borrow a member's support card in Boss Battle and the Endless Tower.\n---\nWe hope you enjoy playing together.",
+   "at": 1793770581,
+   "ends": 1795013999
+  },
+  {
+   "id": 20,
+   "title": "Boss Raid Open — Iron Titan",
+   "body": "@tag content\nMy Lord, the Boss Raid is open. Enter from “Modes” next to Sortie in the lobby, until Nov 16 (Mon) 05:00.\n\n## This Boss\n[card w_titan] A Machine Legendary not yet in summons.\n- Escorts: Machine · Weakness: Nature (double damage)\n\n## Boss Raid\n- The boss's remaining HP carries over between fights. Bring it down over several fights.\n- Defeat it for kill gold and escort card shards, then a stronger boss appears in the next round. Every 3rd round also grants Gems.\n- Three fights a day, auto or by hand.\n- When the period ends, the Endless Tower opens.",
+   "at": 1793574247,
+   "ends": 0
+  },
+  {
+   "id": 19,
+   "title": "New Card — Lily Queen",
+   "body": "@tag new\n@banner wk_newcard\nMy Lord, new faces have arrived at the gate this week.\n\n[card k_queen] She is this week's Legendary Pickup.\n\n## Also Joining\n[cards k_blacksmith]\n\n## Pickup Period\n- Nov 2 (Mon) 05:00 – Nov 9 (Mon) 05:00\n- Faction Pickup: Kingdom\n- At least one Hero or higher guaranteed every 10 Pickup summons",
+   "at": 1793574181,
+   "ends": 0
+  },
+  {
+   "id": 18,
+   "title": "New Mode: League",
+   "body": "@tag info\nMy Lord, the new League mode is now open.\nYou can find them under the \"Modes\" button next to Sortie in the lobby.\n\n## League\nBattle against other Lords' defense decks.\n- Set an attack deck and a defense deck. Your defense deck holds the line against other Lords' challenges.\n- Press \"Challenge\" to see three opponents. You may challenge up to 5 times a day.\n- Wins raise your rating, and the rankings are shown right on the League screen.\n- Each season lasts one month. The first season runs until November 30; when it ends, gold is sent to your mailbox based on your tier and rank.\n\nGood luck in the League, my Lord.",
+   "at": 1793011955,
+   "ends": 1794236399
+  },
+  {
+   "id": 17,
+   "title": "New Mode: Puzzles",
+   "body": "@tag info\nMy Lord, the new Puzzles mode is now open.\nYou can find them under the \"Modes\" button next to Sortie in the lobby.\n\n## Puzzles\nDefeat every enemy with a fixed set of cards.\n- Three enemy cards are already on the field, and your hand comes in a set order.\n- Which card goes in which slot is the answer.\n- The more of your cards survive, the more stars you earn. Your first 3-star clear on a stage awards gold.\n- Don't worry if you fail. You can retry the same stage right away.\n\nEnjoy the puzzles, my Lord.",
+   "at": 1793011950,
+   "ends": 1794236399
+  },
+  {
+   "id": 14,
+   "title": "Card Balance Update",
+   "body": "@tag patch\nMy Lord, this update's card changes.\n\n## Changes\n[change d_darkknight] Gains +1/+1 whenever another ally takes damage.\n[change d_demonknight atk 3>4 hp 5>1] Also deals the same damage to both sides of its target.\n[change d_vampire] On deploy: gains +1/+1 if any ally is damaged.\n[change d_plague] Last words: destroys the card that attacked and killed it. Not triggered by skill damage.\n[change f_thornwitch] Defense: matches the attacker's Attack.\n## Nerfs\n[nerf u_vampirelord atk 3>2] On deploy: steals 1 HP from an adjacent ally and gains +1/+1.\n[nerf k_lancer] When its attack kills an enemy, leftover damage hits an adjacent enemy.\n---\n- Fixed effects that didn't match some cards.\n- Unified card description wording.\n- The back button now closes popups.\n\nPlease update the app from the store.",
+   "at": 1792993710,
+   "ends": 0
+  },
+  {
+   "id": 11,
+   "title": "Steelbanner Has Launched",
+   "body": "@tag info\nMy Lord, thank you for waiting. Today the castle gates are open.\n\nSummon cards, build your deck, and face your foes across three lanes.\nA card that has been played won't return that match, so choose your order wisely.\n\n## Launch Gift\n- 1,000 gems have been sent to your mailbox. (Claim within a month)\n- Check in daily to receive 300 gems on day 7.\n\n## A Request from Your Steward\n- Please report any issues or bugs via \"Contact Support\" in the title settings.\n- For payment inquiries, include the UID shown in your profile so we can help faster.\n\nI will keep coming back with new cards and news.",
+   "at": 1792831817,
+   "ends": 1795445999
+  }
+ ]
+}
