@@ -1,6 +1,13 @@
 {
- "ver": "c536d73174a60c6d831f20209b0489db",
+ "ver": "d848f58a6583548926f76f88def779a9",
  "notices": [
+  {
+   "id": 32,
+   "title": "November 9 Update — Stages",
+   "body": "@tag patch\nMy Lord, here are the stage changes in the November 9 update.\n\n## New stages\n- Normal stages now open up to Chapter 50, with new titles and comics for Chapters 21-50.\n\n## Hard stages\n- Hard now has 5 stages per chapter (previously 4-15).\n- Fully cleared chapters count all 5 as cleared; new stages give no first-clear rewards.\n- Chapters in progress keep your cleared count from the first stage.\n- Shards and enemy decks per stage have changed. Rewards already received stay.\n\n## Card growth\n- As announced, level-ups need more EXP, and star breakthroughs and skill upgrades need more shards.",
+   "at": 1794182917,
+   "ends": 0
+  },
   {
    "id": 31,
    "title": "November 9 Update — Card Skill Adjustments",
