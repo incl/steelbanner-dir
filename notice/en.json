@@ -1,18 +1,11 @@
 {
- "ver": "db2ff108cdfb6fbbc0becb1337d9c0ed",
+ "ver": "c536d73174a60c6d831f20209b0489db",
  "notices": [
   {
    "id": 31,
    "title": "November 9 Update — Card Skill Adjustments",
    "body": "@tag patch\nMy Lord, here are the card skill adjustments in the November 9 update.\n\nSkill upgrade counts and costs are unchanged; only the values at each upgrade tier have changed. Cards you have already upgraded use the new values right away. Values shown are for skill tier 6.\n\n[buff n_treant skill 3>6] Root Armor: counter damage now rises by 1 every tier.\n[buff a_archmage skill 3>6] Arcane Storm: opening damage now rises by 1 every tier.\n[buff k_dwarfking skill 3>6] Golden Hammer: the deck-wide bonus now rises by 1 every tier.\n\n- Fixed skill descriptions for Gnome Inventor, Miner Girl, Dwarf Cannoneer and Engineer Girl showing numbers different from their actual battle values. Battle results are unchanged.\n\nPlease update to the latest version. Thank you for playing.",
    "at": 1794182848,
-   "ends": 0
-  },
-  {
-   "id": 30,
-   "title": "November 9 Update 2",
-   "body": "@tag patch\nMy Lord, here is the rest of the November 9 update.\n\n## Hard stage cleanup\n- Hard stages now have 5 stages per chapter (previously 4 to 15).\n- Chapters you fully cleared count all 5 new stages as cleared. First-clear rewards for the newly added stages are not granted.\n- For chapters in progress, your cleared count carries over from the first stage.\n- Shards and enemy decks for each stage have changed.\n- Records for removed later stages are gone, but rewards you already received stay with you.\n\n## Other changes\n- Enemy levels now show the same value used for their actual stats.\n- If you lack shards on the card screen, you can jump straight to where to get them.\n\nPlease update to the latest version. Thank you for playing.",
-   "at": 1794182651,
    "ends": 0
   },
   {
