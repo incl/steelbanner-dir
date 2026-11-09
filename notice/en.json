@@ -1,6 +1,13 @@
 {
- "ver": "49d8258a5acdc027f08ce339bbb56a2c",
+ "ver": "efa33db5393e8ee8ea1a4fda9192e566",
  "notices": [
+  {
+   "id": 30,
+   "title": "November 9 Update 2",
+   "body": "@tag patch\nMy Lord, here is the rest of the November 9 update.\n\n## Hard stage cleanup\n- Hard stages now have 5 stages per chapter (previously 4 to 15).\n- Chapters you fully cleared count all 5 new stages as cleared. First-clear rewards for the newly added stages are not granted.\n- For chapters in progress, your cleared count carries over from the first stage.\n- Shards and enemy decks for each stage have changed.\n- Records for removed later stages are gone, but rewards you already received stay with you.\n\n## Other changes\n- Enemy levels now show the same value used for their actual stats.\n- If you lack shards on the card screen, you can jump straight to where to get them.\n\nPlease update to the latest version. Thank you for playing.",
+   "at": 1794182651,
+   "ends": 0
+  },
   {
    "id": 29,
    "title": "Advance Notice: Card Growth Rebalance",
