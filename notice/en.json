@@ -1,5 +1,5 @@
 {
- "ver": "d848f58a6583548926f76f88def779a9",
+ "ver": "a51511dc79f54edb961b786cbc95f26f",
  "notices": [
   {
    "id": 32,
@@ -63,20 +63,6 @@
    "body": "@tag new\n@banner wk_newcard\nMy Lord, new faces have arrived at the gate this week.\n\n[card k_queen] She is this week's Legendary Pickup.\n\n## Also Joining\n[cards k_blacksmith]\n\n## Pickup Period\n- Nov 2 (Mon) 05:00 – Nov 9 (Mon) 05:00\n- Faction Pickup: Kingdom\n- At least one Hero or higher guaranteed every 10 Pickup summons",
    "at": 1793574181,
    "ends": 0
-  },
-  {
-   "id": 18,
-   "title": "New Mode: League",
-   "body": "@tag info\nMy Lord, the new League mode is now open.\nYou can find them under the \"Modes\" button next to Sortie in the lobby.\n\n## League\nBattle against other Lords' defense decks.\n- Set an attack deck and a defense deck. Your defense deck holds the line against other Lords' challenges.\n- Press \"Challenge\" to see three opponents. You may challenge up to 5 times a day.\n- Wins raise your rating, and the rankings are shown right on the League screen.\n- Each season lasts one month. The first season runs until November 30; when it ends, gold is sent to your mailbox based on your tier and rank.\n\nGood luck in the League, my Lord.",
-   "at": 1793011955,
-   "ends": 1794236399
-  },
-  {
-   "id": 17,
-   "title": "New Mode: Puzzles",
-   "body": "@tag info\nMy Lord, the new Puzzles mode is now open.\nYou can find them under the \"Modes\" button next to Sortie in the lobby.\n\n## Puzzles\nDefeat every enemy with a fixed set of cards.\n- Three enemy cards are already on the field, and your hand comes in a set order.\n- Which card goes in which slot is the answer.\n- The more of your cards survive, the more stars you earn. Your first 3-star clear on a stage awards gold.\n- Don't worry if you fail. You can retry the same stage right away.\n\nEnjoy the puzzles, my Lord.",
-   "at": 1793011950,
-   "ends": 1794236399
   },
   {
    "id": 14,
