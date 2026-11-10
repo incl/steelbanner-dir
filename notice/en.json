@@ -1,5 +1,5 @@
 {
- "ver": "a51511dc79f54edb961b786cbc95f26f",
+ "ver": "99717862f85ac3b102f08984822aae90",
  "notices": [
   {
    "id": 32,
@@ -30,13 +30,6 @@
    "ends": 1794495599
   },
   {
-   "id": 26,
-   "title": "Nov 5 Update Changes (Auto Advance Ads Withdrawn · Balance Adjustments)",
-   "body": "Hello, this is Steelbanner.\nHere are some changes and details regarding the update announced today.\n\n## 1. Ads for Auto Advance / Stage Repeat Withdrawn\nWe decided that limiting convenience features behind ads is not appropriate, and have fully withdrawn this plan.\nAuto Advance and Stage Repeat remain free to use without ads, as before.\n\n## 2. Stage Balance and Reward Adjustments\n- Normal stage rewards: as previously announced, first-clear rewards change from 15 to 5.\n- Difficulty: stage difficulty has been raised overall across sections.\n- Hard mode rewards: by clearing Hard mode, you can earn rewards similar to before.\n\n## 3. New Social Features\nFriends and Guilds have been added so you can connect and cooperate with other players.\n\nWe sincerely apologize for the confusion during this update.\nWe will keep improving Steelbanner based on your feedback.\nThank you.",
-   "at": 1793842576,
-   "ends": 1794495599
-  },
-  {
    "id": 24,
    "title": "Nov 5 (Thu) Update",
    "body": "@tag patch\nMy Lord, here is the news for the Nov 5 (Thu) 10:00 KST update.\nNormal stages go on endlessly, so first-clear gems could pile up without limit.\n\n## First-clear gems\n- Normal: 15 → 5 per stage\n- Hard: 10 per stage (new)\n- Clear both and your total stays about the same.\n- Gems you have already received will not be taken back.\n\n## Auto Advance · Repeat\n- Watch 1 ad to use them for 1 hour.\n- Premium Pass: no ads needed.\n- Not available on Hard stages.\n---\nWe apologize for the sudden change.",
@@ -55,20 +48,6 @@
    "title": "Boss Raid Open — Iron Titan",
    "body": "@tag content\nMy Lord, the Boss Raid is open. Enter from “Modes” next to Sortie in the lobby, until Nov 16 (Mon) 05:00.\n\n## This Boss\n[card w_titan] A Machine Legendary not yet in summons.\n- Escorts: Machine · Weakness: Nature (double damage)\n\n## Boss Raid\n- The boss's remaining HP carries over between fights. Bring it down over several fights.\n- Defeat it for kill gold and escort card shards, then a stronger boss appears in the next round. Every 3rd round also grants Gems.\n- Three fights a day, auto or by hand.\n- When the period ends, the Endless Tower opens.",
    "at": 1793574247,
-   "ends": 0
-  },
-  {
-   "id": 19,
-   "title": "New Card — Lily Queen",
-   "body": "@tag new\n@banner wk_newcard\nMy Lord, new faces have arrived at the gate this week.\n\n[card k_queen] She is this week's Legendary Pickup.\n\n## Also Joining\n[cards k_blacksmith]\n\n## Pickup Period\n- Nov 2 (Mon) 05:00 – Nov 9 (Mon) 05:00\n- Faction Pickup: Kingdom\n- At least one Hero or higher guaranteed every 10 Pickup summons",
-   "at": 1793574181,
-   "ends": 0
-  },
-  {
-   "id": 14,
-   "title": "Card Balance Update",
-   "body": "@tag patch\nMy Lord, this update's card changes.\n\n## Changes\n[change d_darkknight] Gains +1/+1 whenever another ally takes damage.\n[change d_demonknight atk 3>4 hp 5>1] Also deals the same damage to both sides of its target.\n[change d_vampire] On deploy: gains +1/+1 if any ally is damaged.\n[change d_plague] Last words: destroys the card that attacked and killed it. Not triggered by skill damage.\n[change f_thornwitch] Defense: matches the attacker's Attack.\n## Nerfs\n[nerf u_vampirelord atk 3>2] On deploy: steals 1 HP from an adjacent ally and gains +1/+1.\n[nerf k_lancer] When its attack kills an enemy, leftover damage hits an adjacent enemy.\n---\n- Fixed effects that didn't match some cards.\n- Unified card description wording.\n- The back button now closes popups.\n\nPlease update the app from the store.",
-   "at": 1792993710,
    "ends": 0
   },
   {
