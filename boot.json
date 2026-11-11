@@ -1,6 +1,29 @@
 {
   "popups": [
     {
+      "id": "outage_1111",
+      "on": true,
+      "block": false,
+      "every": false,
+      "title": {
+        "ko": "서버 접속 장애 안내",
+        "en": "Server Connection Issue"
+      },
+      "msg": {
+        "ko": "영주님, 현재 서버 업체 장애로 우편·길드·리그 등 서버 기능이 잠시 동작하지 않습니다.\n스테이지 등 일반 플레이는 그대로 하실 수 있습니다.\n불편을 드려 죄송합니다.",
+        "en": "Lord, server features such as mail, guilds and the league are temporarily unavailable due to an outage at our server provider.\nRegular play like stages still works.\nWe apologize for the inconvenience."
+      },
+      "buttons": [
+        {
+          "label": {
+            "ko": "확인",
+            "en": "OK"
+          },
+          "kind": "main"
+        }
+      ]
+    },
+    {
       "id": "update_notice_23",
       "on": true,
       "block": false,
