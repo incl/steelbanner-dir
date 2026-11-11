@@ -1,6 +1,13 @@
 {
- "ver": "99717862f85ac3b102f08984822aae90",
+ "ver": "e0846221d578ec3563ef13e7a0e2c345",
  "notices": [
+  {
+   "id": 900001,
+   "title": "Server Connection Issue",
+   "body": "@tag maint\nLord, our game server is currently unreachable due to an outage at our hosting provider.\n\n## Impact\n- Server features such as gems, purchases, mail, guilds and the league are temporarily unavailable.\n- Regular play like stages and training still works, and your progress is saved on your device.\n- Gems purchased during the outage are not lost — they will be delivered automatically once the server is back.\n\nWe have asked the provider to restore service. We apologize for the inconvenience.",
+   "at": 1794369764,
+   "ends": 0
+  },
   {
    "id": 32,
    "title": "November 9 Update — Stages",
