@@ -1,6 +1,13 @@
 {
- "ver": "99717862f85ac3b102f08984822aae90",
+ "ver": "15d768d87814e83ff0cd5ea62993c1d1",
  "notices": [
+  {
+   "id": 33,
+   "title": "New Cards — Iron Titan & Clockwork Doll",
+   "body": "@tag new\nMy liege, two new cards have joined the Machine faction.\n\n[card w_titan] It has a shield that takes two hits to break.\n\n[card n_automaton] When it falls, it powers up another Machine card in your deck.\n\n## How to Get Them\n- Now appearing in summons starting today.",
+   "at": 1794785577,
+   "ends": 1796050799
+  },
   {
    "id": 32,
    "title": "November 9 Update — Stages",
@@ -21,13 +28,6 @@
    "body": "@tag info\nMy Lord, here is advance notice of an upcoming card growth rebalance.\n\nCards are currently reaching max level much faster than intended. We are adjusting growth so there is more to work toward over the long run.\n\n## What's changing\n- Card level-ups will require more EXP.\n- Star breakthroughs and skill upgrades will require more character shards.\n\n## When\n- Planned for Monday, November 9.\n- We will let you know if the schedule changes.\n\n## Cards you have already raised\n- Levels, stars and skill tiers you have already reached will stay as they are.\n- Your shards and cards will not be removed.\n\nThank you for playing, and we look forward to many more battles with you.",
    "at": 1793935777,
    "ends": 1795186799
-  },
-  {
-   "id": 28,
-   "title": "Resource Optimization & HD Data Download",
-   "body": "Hello, this is Steelbanner.\nTo make installation lighter, we have greatly reduced the initial app size in this update.\nTo enjoy sharper card illustrations and battle effects, an additional in-game download is required.\n\n## 1. How to Download\nTitle screen [Settings] → [Download HD Data]\n\n## 2. Notes\n- Background downloading is currently not available. Please choose \"In Game\" when selecting how to download.\n- This may use mobile data, so we recommend using Wi-Fi.\n\nWe will keep improving to bring you a smoother, more polished experience.\nThank you.",
-   "at": 1793843109,
-   "ends": 1794495599
   },
   {
    "id": 24,
