@@ -1,18 +1,11 @@
 {
- "ver": "2e6edfd28c597d1759a865c3aa9e6c4f",
+ "ver": "d827e87462262a8ed69a9ec170033f91",
  "notices": [
   {
    "id": 34,
    "title": "Machine Card Balance Adjustments",
    "body": "@tag patch\nMy liege, we have adjusted the stats of two Machine cards.\n\n## Changes\n[change w_cannoneer atk 3>4 hp 3>2] Higher attack makes it easier to finish off enemies.\n[change w_engineer atk 1>3 hp 4>1] Falls sooner, so it powers up Machine cards in your deck more often.\n\n- The changes apply right away, no app update needed.",
    "at": 1794788102,
-   "ends": 1796050799
-  },
-  {
-   "id": 33,
-   "title": "New Cards — Iron Titan & Clockwork Doll",
-   "body": "@tag new\nMy liege, two new cards have joined the Machine faction.\n\n[card w_titan] It has a shield that takes two hits to break.\n\n[card n_automaton] When it falls, it powers up another Machine card in your deck.\n\n## How to Get Them\n- Now appearing in summons starting today.",
-   "at": 1794785577,
    "ends": 1796050799
   },
   {
