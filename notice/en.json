@@ -1,6 +1,13 @@
 {
- "ver": "15d768d87814e83ff0cd5ea62993c1d1",
+ "ver": "2e6edfd28c597d1759a865c3aa9e6c4f",
  "notices": [
+  {
+   "id": 34,
+   "title": "Machine Card Balance Adjustments",
+   "body": "@tag patch\nMy liege, we have adjusted the stats of two Machine cards.\n\n## Changes\n[change w_cannoneer atk 3>4 hp 3>2] Higher attack makes it easier to finish off enemies.\n[change w_engineer atk 1>3 hp 4>1] Falls sooner, so it powers up Machine cards in your deck more often.\n\n- The changes apply right away, no app update needed.",
+   "at": 1794788102,
+   "ends": 1796050799
+  },
   {
    "id": 33,
    "title": "New Cards — Iron Titan & Clockwork Doll",
