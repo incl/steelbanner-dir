@@ -1,6 +1,13 @@
 {
- "ver": "d827e87462262a8ed69a9ec170033f91",
+ "ver": "ce5786fd6193ed33f70ee62d66175f55",
  "notices": [
+  {
+   "id": 35,
+   "title": "New Cards — Iron Titan & Clockwork Doll",
+   "body": "@tag new\nMy liege, two new cards have joined the Machine faction.\n\n[card w_titan] It has a shield that takes two hits to break.\n\n[card n_automaton] When it falls, it powers up another Machine card in your deck.\n\n## How to Get Them\n- Now appearing in summons starting today.",
+   "at": 1794788546,
+   "ends": 1796050799
+  },
   {
    "id": 34,
    "title": "Machine Card Balance Adjustments",
