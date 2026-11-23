@@ -1,6 +1,13 @@
 {
- "ver": "ce5786fd6193ed33f70ee62d66175f55",
+ "ver": "07d93a8e28a0b1cd02c25d9b11760433",
  "notices": [
+  {
+   "id": 36,
+   "title": "New Version Update",
+   "body": "@tag patch\nMy liege, here is what's new in the latest version.\nUpdate the app from the store to receive the changes below.\n\n## Demon Card Adjustments\n[nerf d_darkknight] Now gains +1/+1 only when another Demon ally takes damage, instead of any ally.\n[buff d_vampire] Instead of +1/+1 if any ally is damaged, now gains +1/+1 for each damaged ally.\n[change u_vampirelord] Stolen health now counts as damage. Max health stays the same, and effects that trigger when an ally takes damage, such as Blood Countess and Demon Empress, now activate.\n\n## Machine Card Adjustments\n[buff w_cannoneer] Slay effect now gives a card of the same faction in your deck +2/+2 instead of +1/+1.\n- This follows the attack and health changes announced in the previous notice.\n\n## Card Descriptions\n- Skill descriptions that said \"same faction\" now show the actual faction name. (e.g. \"a Machine card in your deck\")\n\n## Visual Improvements\n- When Blood Countess triggers, a crimson glow and blood drops rise above the card.\n- When Vampire Lord steals health, blood drops stream into it.\n- Apprentice Witch's Opening throws a potion flask that shatters, and Battle Mage's Opening sends a magic ring to each target.\n- When granting Frontline, a shield flies from the giving card to the receiving card.\n- Cards with the Defense skill now show \"Defense!\" as the attack approaches, so you can see which effect triggers.\n- When both cards strike back at each other, their damage is shown at the same time.\n- In auto battle, it's easier to see which of the three cards was picked.\n- Tapping the screen now gives a small sparkle.\n\n## Convenience\n- A sort button has been added to owned cards in the Deck tab. Each tap cycles through rarity high/low and level high/low.\n- Japanese is now supported, and card voices follow your screen language.\n- Large amounts are now shortened (e.g. 123.4M).\n- Your gold is now shown at the top right of the Training screen.\n\n## League\n- Rankings now show Power instead of score and wins.\n- Other lords' info windows no longer show last login, battle record, or join date.\n\nWe'll keep refining the battlefield for you. Thank you!",
+   "at": 1795406752,
+   "ends": 1796655599
+  },
   {
    "id": 35,
    "title": "New Cards — Iron Titan & Clockwork Doll",
@@ -28,27 +35,6 @@
    "body": "@tag patch\nMy Lord, here are the card skill adjustments in the November 9 update.\n\nSkill upgrade counts and costs are unchanged; only the values at each upgrade tier have changed. Cards you have already upgraded use the new values right away. Values shown are for skill tier 6.\n\n[buff n_treant skill 3>6] Root Armor: counter damage now rises by 1 every tier.\n[buff a_archmage skill 3>6] Arcane Storm: opening damage now rises by 1 every tier.\n[buff k_dwarfking skill 3>6] Golden Hammer: the deck-wide bonus now rises by 1 every tier.\n\n- Fixed skill descriptions for Gnome Inventor, Miner Girl, Dwarf Cannoneer and Engineer Girl showing numbers different from their actual battle values. Battle results are unchanged.\n\nPlease update to the latest version. Thank you for playing.",
    "at": 1794182848,
    "ends": 0
-  },
-  {
-   "id": 29,
-   "title": "Advance Notice: Card Growth Rebalance",
-   "body": "@tag info\nMy Lord, here is advance notice of an upcoming card growth rebalance.\n\nCards are currently reaching max level much faster than intended. We are adjusting growth so there is more to work toward over the long run.\n\n## What's changing\n- Card level-ups will require more EXP.\n- Star breakthroughs and skill upgrades will require more character shards.\n\n## When\n- Planned for Monday, November 9.\n- We will let you know if the schedule changes.\n\n## Cards you have already raised\n- Levels, stars and skill tiers you have already reached will stay as they are.\n- Your shards and cards will not be removed.\n\nThank you for playing, and we look forward to many more battles with you.",
-   "at": 1793935777,
-   "ends": 1795186799
-  },
-  {
-   "id": 24,
-   "title": "Nov 5 (Thu) Update",
-   "body": "@tag patch\nMy Lord, here is the news for the Nov 5 (Thu) 10:00 KST update.\nNormal stages go on endlessly, so first-clear gems could pile up without limit.\n\n## First-clear gems\n- Normal: 15 → 5 per stage\n- Hard: 10 per stage (new)\n- Clear both and your total stays about the same.\n- Gems you have already received will not be taken back.\n\n## Auto Advance · Repeat\n- Watch 1 ad to use them for 1 hour.\n- Premium Pass: no ads needed.\n- Not available on Hard stages.\n---\nWe apologize for the sudden change.",
-   "at": 1793771117,
-   "ends": 1795013999
-  },
-  {
-   "id": 23,
-   "title": "Nov 5 (Thu) Update 2 — Friends & Guilds",
-   "body": "@tag info\nMy Lord, Friends and Guilds open with the Nov 5 (Thu) update.\n\n## Friends\nOpen \"Friends\" on the left of Home.\n- Follow each other to become friends.\n- Send each friend a Friendship Point gift once a day.\n- Spend points in the Friendship Shop for gold and card shards.\n- Friendly Match: practice against a friend's main deck.\n\n## Guilds\nOpen it below Patrol on the right of Home.\n- Check in and donate to grow your guild and earn Guild Coins.\n- Request and send card shards among members.\n- Buy gold and card shards in the Guild Shop.\n- Borrow a member's support card in Boss Battle and the Endless Tower.\n---\nWe hope you enjoy playing together.",
-   "at": 1793770581,
-   "ends": 1795013999
   },
   {
    "id": 20,
