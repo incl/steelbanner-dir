@@ -1,11 +1,11 @@
 {
   "popups": [
     {
-      "id": "update_notice_23",
+      "id": "update_notice_28",
       "on": true,
       "block": false,
-      "every": false,
-      "below_code": 23,
+      "every": true,
+      "below_code": 28,
       "title": {
         "ko": "새 업데이트가 있습니다",
         "en": "New Update Available"
