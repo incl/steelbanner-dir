@@ -1,6 +1,13 @@
 {
- "ver": "07d93a8e28a0b1cd02c25d9b11760433",
+ "ver": "502cc025bd347037dc5da841d10350b0",
  "notices": [
+  {
+   "id": 37,
+   "title": "Nature Faction Card Rework",
+   "body": "@tag patch\nMy Lord, here is news of the Nature faction rework.\nInstead of counterattacking, Nature now shields its allies, passes on its strength when it falls, and grows stronger as its allies take hits.\n\n## Nature Card Rework\n[change n_treant] Instead of counterattacking, it takes damage in place of the allies on both sides. (1/2/3/4/5/6) On level-up it gains 2 HP instead of attack.\n[change n_druid] Instead of counterattacking, it gains Frontline, and when it falls it gives HP to one adjacent ally. (2/3/3/4/4/5)\n[change f_dryad] Instead of a death effect, whenever another Nature ally takes damage, that ally gains attack. (1/2/2/3/3/4)\n[change n_fairy] Instead of striking an enemy when it falls, it gives attack to one adjacent ally. (2/3/3/4/4/5)\n---\n- Numbers in parentheses are the values for skill levels 1 to 6.\n- If allies stand on both sides, one of them is chosen at random.\n- Skill upgrade steps and costs are unchanged, and already-upgraded cards use the new values immediately.\n- Vine leaves and petals bloom when the Flower Fairy or Forest Druid falls.\n- Puzzle stages keep the skills they were built with.\n\nWe will keep refining the battlefield. Thank you, my Lord.",
+   "at": 1795414186,
+   "ends": 1796655599
+  },
   {
    "id": 36,
    "title": "New Version Update",
