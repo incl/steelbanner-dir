@@ -1,6 +1,13 @@
 {
- "ver": "502cc025bd347037dc5da841d10350b0",
+ "ver": "4851efd00e434444976fbdd9ca8fa697",
  "notices": [
+  {
+   "id": 38,
+   "title": "New Cards — Howling Wolf & Wolf Alpha",
+   "body": "@tag new\nMy liege, two new wolf cards have joined the Neutral faction.\n\n[card n_wolf_howler] With three wolves on the field, all three gain +3 attack — the bigger the pack, the stronger it gets.\n\n[card n_wolf_alpha] Every attack calls a Wolf Pack into an empty slot — the longer it fights, the bigger the pack grows.\n\nWolf Girl, Ashen Wolf, Werewolf, and the Wolf Pack summoned by the Alpha all count as wolves. Try building a wolf deck!\n\n## How to Get Them\n- Now appearing in summons starting today.",
+   "at": 1795480760,
+   "ends": 1796741999
+  },
   {
    "id": 37,
    "title": "Nature Faction Card Rework",
@@ -49,13 +56,6 @@
    "body": "@tag content\nMy Lord, the Boss Raid is open. Enter from “Modes” next to Sortie in the lobby, until Nov 16 (Mon) 05:00.\n\n## This Boss\n[card w_titan] A Machine Legendary not yet in summons.\n- Escorts: Machine · Weakness: Nature (double damage)\n\n## Boss Raid\n- The boss's remaining HP carries over between fights. Bring it down over several fights.\n- Defeat it for kill gold and escort card shards, then a stronger boss appears in the next round. Every 3rd round also grants Gems.\n- Three fights a day, auto or by hand.\n- When the period ends, the Endless Tower opens.",
    "at": 1793574247,
    "ends": 0
-  },
-  {
-   "id": 11,
-   "title": "Steelbanner Has Launched",
-   "body": "@tag info\nMy Lord, thank you for waiting. Today the castle gates are open.\n\nSummon cards, build your deck, and face your foes across three lanes.\nA card that has been played won't return that match, so choose your order wisely.\n\n## Launch Gift\n- 1,000 gems have been sent to your mailbox. (Claim within a month)\n- Check in daily to receive 300 gems on day 7.\n\n## A Request from Your Steward\n- Please report any issues or bugs via \"Contact Support\" in the title settings.\n- For payment inquiries, include the UID shown in your profile so we can help faster.\n\nI will keep coming back with new cards and news.",
-   "at": 1792831817,
-   "ends": 1795445999
   }
  ]
 }
